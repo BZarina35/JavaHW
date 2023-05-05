@@ -20,8 +20,6 @@ public class HW1class13 {
             System.out.print(stb.reverse().append(" "));
         }
 
-        // How would you check if String is palindrome or not? aba=> true
-        //Abbc =>false
     }
 
     }
